@@ -18,7 +18,7 @@ def main():
             sumatory += point[0] * coordinates[0][1] - point[1] * coordinates[0][0]
         else:
             sumatory += point[0] * coordinates[index+1][1] - point[1] * coordinates[index+1][0]
-    print("Area:", sumatory / 2)
+    print("Area:", abs(sumatory / 2))
 
 if __name__ == '__main__':
     main()
