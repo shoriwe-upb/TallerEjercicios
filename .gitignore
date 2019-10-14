@@ -1,0 +1,17 @@
+
+.idea/workspace.xml
+.idea/vcs.xml
+.idea/TallerEjercicios.iml
+.idea/modules.xml
+.idea/misc.xml
+.idea/libraries/R_User_Library.xml
+Exercises/number-transformation/__init__.py
+Exercises/number-transformation/__pycache__/binary_to_decimal.cpython-37.pyc
+Exercises/number-transformation/__pycache__/binary_to_hex.cpython-37.pyc
+Exercises/number-transformation/__pycache__/binary_to_octal.cpython-37.pyc
+Exercises/number-transformation/__pycache__/decimal_to_binary.cpython-37.pyc
+Exercises/number-transformation/__pycache__/decimal_to_hex.cpython-37.pyc
+Exercises/number-transformation/__pycache__/decimal_to_octal.cpython-37.pyc
+Exercises/number-transformation/__pycache__/hex_to_decimal.cpython-37.pyc
+Exercises/number-transformation/__pycache__/octal_to_decimal.cpython-37.pyc
+.idea/workspace.xml___jb_tmp___
