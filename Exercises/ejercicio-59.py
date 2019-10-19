@@ -19,7 +19,7 @@ def main():
                 eigth_multiple += 1
         except ValueError:
             break
-    print("positivesp", positives)
+    print("positives", positives)
     print("negatives", negatives)
     print("evens", evens)
     print("odds", odds)

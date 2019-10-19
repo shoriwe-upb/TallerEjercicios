@@ -6,7 +6,7 @@ def main():
             number = float(input("Number: "))
             if number > 100:
                 bigger += 1
-            else:
+            elif number < 100:
                 smaller += 1
         except ValueError:
             break

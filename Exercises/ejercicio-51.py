@@ -1,7 +1,7 @@
 def main():
     numero = int(input("Numero: "))
     even = False
-    for n in range(1, numero):
+    for n in range(1, numero+1):
         if even:
             print(n*-1)
             even = False
